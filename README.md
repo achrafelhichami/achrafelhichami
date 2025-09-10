@@ -5,13 +5,16 @@
 
 ### 🚀 What I do
 
-- 🔹 Building SaaS products (Next.js, React, Node.js, Spring Boot, Java)
+- 🔹 Building web applications (Next.js, React, Node.js, Spring Boot, Java)
 - 🔹 Interested in micro-SaaS & automation tools
 - 🔹 Exploring AI integrations
 
 ### 📫 How to reach me
 
-- <a href="mailto:achrafelhichami@hotmail.com">✉️ Email me</a>
 - <a href="https://linkedin.com/in/achrafelhichami" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
+
+### 📧 Email me
+
+- [achrafelhichami@hotmail.com](mailto:achrafelhichami@hotmail.com)
