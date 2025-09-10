@@ -9,7 +9,9 @@
 - 🔹 Interested in micro-SaaS & automation tools
 - 🔹 Exploring AI integrations
 
-### 📫 Connect with me
+### 📫 How to reach me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafelhichami)
-- ✉️ achrafelhichami@hotmail.com
+- <a href="mailto:achrafelhichami@hotmail.com">✉️ Email me</a>
+- <a href="https://linkedin.com/in/achrafelhichami" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>
