@@ -5,11 +5,11 @@
 
 ### 🚀 What I do
 
-- 🔹 Building SaaS products (Next.js, React, Node.js, Spring Boot, Java)
-- 🔹 Interested in micro-SaaS & automation tools
-- 🔹 Exploring AI integrations
+🔹 Building SaaS products (Next.js, React, Node.js, Spring Boot, Java)
+🔹 Interested in micro-SaaS & automation tools
+🔹 Exploring AI integrations
 
 ### 📫 Connect with me
 
-- [LinkedIn](https://linkedin.com/in/achrafelhichami)
-- ✉️ achrafelhichami@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafelhichami)
+✉️ achrafelhichami@hotmail.com
